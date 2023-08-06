@@ -51,7 +51,7 @@ rich==13.4.1
 safetensors==0.3.1
 sentencepiece==0.1.99
 six==1.16.0
-scikit-learn==0.0.post5
+scikit-learn==0.9
 smmap==5.0.0
 streamlit==1.23.1
 tenacity==8.2.2
