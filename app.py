@@ -32,6 +32,5 @@ else:
     except ArticleException as e:
         st.write("***Note:url should starts with https://***")
 
-st.button("Connect with me on LinkedIn", url="www.linkedin.com/in/lokesh-sinha-952706246")
 st.snow()
 
